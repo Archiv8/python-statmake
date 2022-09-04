@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Created from the original PKGBUILD by Caleb Maclennan <caleb@alerque.com>
+
 # Disable various shellcheck rules that produce false positives in this file.
 # Repository rules should be added to the .shellcheckrc file located in the
 # repository root directory, see https://github.com/koalaman/shellcheck/wiki
@@ -10,8 +11,8 @@
 # ToDo: Add files: Tooling
 # FixMe: Namcap warnings and errors
 
-# Maintainer: Ross Clark <https://github.com/Archiv8/python-pyclipper/discussions>
-# Contributor: Ross Clark <https://github.com/Archiv8/python-pyclipper/discussions>
+# Maintainer: Ross Clark <https://github.com/Archiv8/python-statmake/discussions>
+# Contributor: Ross Clark <https://github.com/Archiv8/python-statmake/discussions>
 
 _langname="python"
 _relname="statmake"
